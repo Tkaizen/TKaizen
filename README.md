@@ -28,11 +28,11 @@ br>
 
 <p align="left" style="display: flex; gap: 10px;">
   
-  <a href="https://twitter.com/Cyber_Sphinx_x" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 
-  <a href="https://www.facebook.com/johnlemgonzales" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
