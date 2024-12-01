@@ -26,11 +26,28 @@ br>
 <p align="left">
 <a href="https://linkedin.com/in/MizukiYuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MizukiYuta" height="30" width="40"
 
+<p align="left" style="display: flex; gap: 10px;">
+  
+  <a href="https://twitter.com/Cyber_Sphinx_x" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+
+  <a href="https://www.facebook.com/johnlemgonzales" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  <a href="https://discord.gg/74jFFFgjNT" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 </p>
-
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,discord,gmail,github,  &perline=7" />
+  </a>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Mizuki&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
@@ -48,7 +65,22 @@ br>
 
 </div>
 
-<br><br>
+<br><h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
+<h1 align="center">PERSONAL HUB</h1>
+
+<h4 align="center">If this part doesn't load, Refresh the page</h1>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5DF70F&random=false&width=510&lines=%F0%9D%90%87%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%8B%F0%9D%90%8E+%F0%9D%90%95%F0%9D%90%88%F0%9D%90%92%F0%9D%90%88%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%91!;%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%A6%F0%9D%90%B2+%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%AE%F0%9D%90%9B+%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E;%F0%9D%90%85%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A5+%F0%9D%90%9F%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4+%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+    <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tkaizen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Tkaizen"/>
+</div>
+
+<div align="center">
+    <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tkaizen&" alt="Tkaizen"/>
+</div><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
