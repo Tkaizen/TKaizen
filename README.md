@@ -3,9 +3,9 @@
 <h3 align="center">A Programmer and Web Developer </h3>
 <p align="center">I am a aspiring programmer who wants to be a Game/Web Developer.Computer always fascinate me as a kid and introduced me to the wonders of technology </p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=MizukiYuta&label=Profile%20views&color=0e75b6&style=flat" alt="MizukiYuta" /> 
+ <img src="https://komarev.com/ghpvc/?username=TKaizen&label=Profile%20views&color=0e75b6&style=flat" alt="TKaizen" /> 
   <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Javascript | C | javascript -green.svg" alt="TKaizen's language" />
-  <img alt="Profile followers" src="https://img.shields.io/github/followers/MizukiYuta"> -->
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/TKaizen"> -->
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@
 br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/MizukiYuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MizukiYuta" height="30" width="40"
+<a href="https://linkedin.com/in/jhun-lloyd-boyles-386896339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40"
 
 <p align="left" style="display: flex; gap: 10px;">
   
@@ -35,6 +35,7 @@ br>
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
+  
 
   <a href="https://discord.gg/74jFFFgjNT" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
@@ -46,11 +47,11 @@ br>
 <h3 align="left">Languages and Tools:</h3>
 </p>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,discord,gmail,github,  &perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,figma,github,notion,pycharm,unreal,unity,godot,vscode,wordpress,blender,discord,gmail,github,  &perline=7" />
   </a>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mizuki&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=TKaizen&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 
@@ -76,4 +77,4 @@ br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<p align="right" > Created with 🧡 by >MizukiYuta</a></p>
+<p align="right" > Created with 🧡 by >TKaizen</a></p>
