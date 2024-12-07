@@ -4,8 +4,8 @@
 <p align="center">I am a aspiring programmer who wants to be a Game/Web Developer.Computer always fascinate me as a kid and introduced me to the wonders of technology </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=MizukiYuta&label=Profile%20views&color=0e75b6&style=flat" alt="MizukiYuta" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="MizukiYuta's language" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/MizukiYuta"> -->
+  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Javascript | C | javascript -green.svg" alt="TKaizen's language" />
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/MizukiYuta"> -->
 </p>
 
 <div align="center">
