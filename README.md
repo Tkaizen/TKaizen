@@ -15,20 +15,27 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently Studying  on **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **
+- 🔭 I’m currently Studying  on **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **.
 
-- 🌱 I’m currently learning **PYTHON,JAVA,C PROGARAMMING AND MORE**
+- 🌱 I’m currently learning **PYTHON,JAVA,C PROGARAMMING AND MORE**.
 
-- 📫 How to reach me **boylesjhunlloyd@gmail.com**
+- 📫 How to reach me **boylesjhunlloyd@gmail.com**.
 
-- ⚡ Fun fact **I like making stories like novels,manga and also world building**
-br>
+- ⚡ Fun fact **I like making stories like novels,manga and also world building**.
+
+
+
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jhun-lloyd-boyles-386896339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40"
+
 
 <p align="left" style="display: flex; gap: 10px;">
-  
+  <a href="https://linkedin.com/in/jhun-lloyd-boyles-386896339/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
   <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
