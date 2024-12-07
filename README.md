@@ -5,11 +5,12 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=TKaizen&label=Profile%20views&color=0e75b6&style=flat" alt="TKaizen" /> 
   <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Javascript | C | javascript -green.svg" alt="TKaizen's language" />
-  <img alt="Profile followers" src="https://img.shields.io/github/followers/TKaizen"> -->
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/TKaizen"> 
 </p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
