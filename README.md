@@ -2,11 +2,19 @@
 <h1 align="center">Hi 👋, I'm TKaizen</h1>
 <h3 align="center">A Programmer and Web Developer </h3>
 <p align="center">I am a aspiring programmer who wants to be a Game/Web Developer.Computer always fascinate me as a kid and introduced me to the wonders of technology </p>
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=TKaizen&label=Profile%20views&color=0e75b6&style=flat" alt="TKaizen" /> 
   <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Javascript | C | javascript -green.svg" alt="TKaizen's language" />
   <img alt="Profile followers" src="https://img.shields.io/github/followers/TKaizen"> 
 </p>
+- 🔭 I’m currently Studying  on **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **.
+
+- 🌱 I’m currently learning **PYTHON,JAVA,C PROGARAMMING AND MORE**.
+
+- 📫 How to reach me **boylesjhunlloyd@gmail.com**.
+
+- ⚡ Fun fact **I like making stories like novels,manga and also world building**.
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -15,13 +23,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently Studying  on **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **.
-
-- 🌱 I’m currently learning **PYTHON,JAVA,C PROGARAMMING AND MORE**.
-
-- 📫 How to reach me **boylesjhunlloyd@gmail.com**.
-
-- ⚡ Fun fact **I like making stories like novels,manga and also world building**.
 
 
 
