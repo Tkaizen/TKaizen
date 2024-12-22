@@ -28,6 +28,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<!-- this space is for my up incoming project and learnings -->
+
+
+
+
 
 <p align="left" style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/jhun-lloyd-boyles-386896339/" target="_blank">
