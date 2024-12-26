@@ -27,7 +27,6 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <br>
 
 <p align="left" style="display: flex; gap: 10px;">
