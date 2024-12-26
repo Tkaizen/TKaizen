@@ -28,20 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<!--img align="left" alt="Coding" width="220" src=">
-Showcasing my progress and projects related to what I'm currently learning:-->
-
-- [Learned to make a simple stopwatch](https://stopwatch-seven-theta.vercel.app)
-- [learned to make a simple digital clock](https://digital-clock-silk-eight.vercel.app)
-<!-- [Project 3: Restaurant Billing System Using C Programming](https://github.com/CyberSphinxxx/RestaurantBillingCProgramming)
-- [Food Blog Website: Group 5 Grade 12 TVL, ICT-1 Food Blog](https://jlgonz.edublogs.org/2022/11/18/group-5-grade-12-tvl-ict-1-food-blog-final/)
-- [Interactive Code Editor](https://cybersphinxxx.github.io/Interactive_Code_Editor/)
-- [TimeNow](https://github.com/CyberSphinxxx/TimeNow)
-- [WeatherNow](https://github.com/CyberSphinxxx/TimeNow)-->
-
 <br>
-
-
 
 <p align="left" style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/jhun-lloyd-boyles-386896339/" target="_blank">
